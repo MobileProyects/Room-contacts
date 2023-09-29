@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="name">Your name</string>
+    <string name="telephone">Your telephone</string>
+</resources>
